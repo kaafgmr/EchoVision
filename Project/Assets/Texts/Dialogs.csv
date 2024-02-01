@@ -1,0 +1,8 @@
+﻿DIALOG01|cyan|Hello?|Hola?|Olá?
+DIALOG02|magenta|Heyy son|Hola hijo|Oi filho
+DIALOG03|magenta|Fast!!! Your taxi is waiting for you at the door, it will take you to the Blind People Association|Corre, tu taxi te está esperando en la puerta para llevarte a la Asociación de Ciegos|Rápido, o taxi está te esperando la fora para te levar para a Asociação de Cegos
+DIALOG04|cyan|Ok, I'm on my way|Vale, ahora voy|Ok, estou indo
+DIALOG05|cyan|Bye mommy|Adiós mamá|Tchau mãe
+DIALOG06|magenta|Goodbye son|Adiós hijo|Tchau Tchau filho
+DIALOG07|green|Congratulations Casymiro Buenavista, you got through our maze|Enhorabuena Casymiro Buenavista, has conseguido pasar por nuestro laberinto|Parabéns Casymiro Buenavista, voçê conseguiu passar pelo nosso labirinto
+DOORINTERACTION|cyan|I need the key to open the door|Necesito la llave para abrir la puerta|Preciso da chave para abrir a porta
