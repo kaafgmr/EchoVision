@@ -1,6 +1,6 @@
-using UnityEngine;
-using UnityEngine.Events;
 using UnityEngine.EventSystems;
+using UnityEngine.Events;
+using UnityEngine;
 
 public class InteractionManager : MonoBehaviour, IPointerDownHandler
 {

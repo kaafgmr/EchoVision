@@ -1,5 +1,5 @@
-using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine;
 
 public class AudioMixerController : MonoBehaviour
 {
